@@ -7,7 +7,7 @@ For educational purposes only
 
 ### - 🔗 ***Get the Latest Release:***
 
-- [💾 Releases Page]() = `*Latest Release as of now*`
+- [💾 Releases Page](https://github.com/Sims-4-EA-DLC-Unlocker/.github/releases) = `*Latest Release as of now*`
 
 ---
 
